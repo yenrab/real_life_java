@@ -1,5 +1,5 @@
 
-public class SimpleExampleServer {
+public class SimpleServer {
     
 	public static void main(String[] args) {
 		
